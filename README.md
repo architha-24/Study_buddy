@@ -12,18 +12,6 @@ Progress Analytics: Visual dashboard with study metrics
 
 Study Tips: Evidence-based learning strategies
 
-## 🚀 Quick Start
-Install dependencies
-
-bash
-pip install -r requirements.txt
-Run the application
-
-bash
-streamlit run app.py
-
-Register new account or login
-
 ## 🎯 Usage
 Learn & Summarize: Paste text and generate key points
 
@@ -44,10 +32,18 @@ Authentication: bcrypt
 
 NLP: NLTK for text processing
 
+## 🚀 Run Locally
+**1. Clone & Setup**
+bash
+git clone https://github.com/architha-24/Study_buddy.git
+cd Study_buddy
+pip install -r requirements.txt
+**2. Run App**
+bash
+streamlit run app.py
+
 ## 🌐 Live Demo
 
 Experience Smart Study Buddy right now:
 
 **🔗 Live Application:** [Click Here](https://studybuddy-5qzoxmb48jzjuqsil2vzri.streamlit.app)
-
-Built for students by learners 📖✨
