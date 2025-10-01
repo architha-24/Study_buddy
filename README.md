@@ -63,6 +63,6 @@ NLP: NLTK for text processing
 🌐 Live Demo
 Experience Smart Study Buddy right now:
 
-🔗 Live Demo : [studybuddy-5qzoxmb48jzjuqsil2vzri]
+🔗 Live Demo : [studybuddy-5qzoxmb48jzjuqsil2vzri.streamlitapp]
 
 Built for students by learners 📖✨
