@@ -33,14 +33,14 @@ Authentication: bcrypt
 NLP: NLTK for text processing
 
 ## 🚀 Run Locally
-**1. Clone & Setup**
-bash
-git clone https://github.com/architha-24/Study_buddy.git
-cd Study_buddy
-pip install -r requirements.txt
-**2. Run App**
-bash
-streamlit run app.py
+
+**1.** Clone & Setup
+
+**2.** pip install -r requirements.txt
+
+**3.** Run App :
+
+bash : streamlit run app.py
 
 ## 🌐 Live Demo
 
